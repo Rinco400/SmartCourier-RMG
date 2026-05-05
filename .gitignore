@@ -1,0 +1,9 @@
+db.sqlite3
+*.sqlite3
+ecourier-rmg-env/
+__pycache__/
+*.pyc
+.env
+media/
+.idea/
+.vscode/
