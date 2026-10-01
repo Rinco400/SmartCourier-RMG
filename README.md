@@ -1,4 +1,4 @@
-# SmartCourier RMG — A Django-Based Delivery Management System for the Garment Industry
+# SmartCourier RMG -- Proposed a digital solution for improving delivery coordination and logistics visibility in the garment supply chain
 
 A Django-based bachelor project for managing courier and delivery services in the Ready-Made Garments (RMG) industry. The system focuses on delivery traceability, role-based user access, driver management, delivery requests, payment handling, and client-driver communication.
 
